@@ -1,0 +1,1 @@
+This is the copy of the starbucks website ,the food.html and the food.css is the intro page of the starbucks click the button to enter the website. The starbucks.html and the starbucks.css is the main webpage of the starbucks .I use only the css and the html.
